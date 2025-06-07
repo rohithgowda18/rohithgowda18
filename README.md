@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on building my problem-solving skills and learning new technologies.<br>👯 I’m looking to collaborate on C++ projects and interesting coding challenges.<br>🤝 I’m looking for help with advanced programming concepts and problem-solving.<br>🌱 I’m currently learning data structures, algorithms, and software development.<br>⚡ Fun fact I love both high-energy outdoor games and chill gaming marathons!
+🔭 I’m currently working on building my problem-solving skills and learning new technologies.<br>👯 I’m looking to collaborate on Java projects and interesting coding challenges.<br>🤝 I’m looking for help with advanced programming concepts and problem-solving.<br>🌱 I’m currently learning data structures, algorithms, and software development.<br>⚡ Fun fact I love both high-energy outdoor games and chill gaming marathons!
 
 
 ## 🌐 Socials:

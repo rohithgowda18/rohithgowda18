@@ -20,11 +20,6 @@ I'm a developer focused on improving problem-solving skills and learning new tec
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
 
-(Replace/add tech badges to match your real stack.)
-
-## 🔭 Featured Projects
-- Project A — short 1-line description and link
-- Project B — short 1-line description and link
 
 Add a small Projects section linking to repositories and include short instructions (how to run or reproduce).
 
@@ -43,8 +38,3 @@ Add a small Projects section linking to repositories and include short instructi
 - Instagram: https://instagram.com/rohithgowda.18
 
 ---
-
-If you want, I can:
-- Add a Projects section automatically populated with your top repositories,
-- Or prepare a commit/PR to push this README directly to your repo.
-Tell me which of those you'd like and I’ll proceed.

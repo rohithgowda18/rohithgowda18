@@ -4,7 +4,7 @@ I'm a developer focused on improving problem-solving skills and learning new tec
 
 🌐 Portfolio
 
-<p align="left"> <a href="YOUR_PORTFOLIO_URL" target="_blank"> <img src="https://img.shields.io/badge/🌍_Portfolio-Visit_Website-4F46E5?style=for-the-badge" /> </a> </p>
+<p align="left"> <a href="https://rohith.app" target="_blank"> <img src="https://img.shields.io/badge/🌍_Portfolio-Visit_Website-4F46E5?style=for-the-badge" /> </a> </p>
 
 
 ## 🚀 About Me
@@ -17,64 +17,28 @@ I'm a developer focused on improving problem-solving skills and learning new tec
 
 ## 💻 Tech Stack
 
-### 👨‍💻 Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=java,python,javascript,c,sql,bash" />
-</p>
-
-### ⚙️ Backend
-
-<p>
-<img src="https://skillicons.dev/icons?i=spring,maven,gradle" />
-<img src="https://img.shields.io/badge/REST_API-02569B?style=flat-square" />
-<img src="https://img.shields.io/badge/JWT-000000?style=flat-square" />
-<img src="https://img.shields.io/badge/LangChain-00A67E?style=flat-square" />
-</p>
-
-### 🎨 Frontend
-
-<p>
-<img src="https://skillicons.dev/icons?i=react,html,css" />
-</p>
-
-### 🗄️ Databases
-
-<p>
-<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb" />
-</p>
-
-### ☁️ DevOps & Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,docker,linux,postman,vscode,idea,vercel" />
-</p>
-
-### 📚 Currently Exploring
-
-<p>
-<img src="https://skillicons.dev/icons?i=redis,kafka" />
-</p>
-
-
-
-# 📈 GitHub Stats
-
 <p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=rohithgowda18&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohithgowda18&layout=compact&theme=tokyonight&hide_border=true"/>
-
+  <img src="https://skillicons.dev/icons?i=java,python,javascript,c,sql,bash,spring,react,html,css,postgres,mysql,mongodb,git,docker,linux,postman,vscode,idea&perline=10" />
 </p>
 
 <p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=rohithgowda18&theme=tokyonight&hide_border=true"/>
-
+  <img src="https://img.shields.io/badge/REST_API-02569B?style=flat-square"/>
+  <img src="https://img.shields.io/badge/JWT-000000?style=flat-square"/>
+  <img src="https://img.shields.io/badge/LangChain-00A67E?style=flat-square"/>
 </p>
 
----
+
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=rohithgowda18&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohithgowda18&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=rohithgowda18&theme=tokyonight&hide_border=true" />
+</p>
 
 
 ## 🌐 Connect With Me

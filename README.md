@@ -2,39 +2,123 @@
 
 I'm a developer focused on improving problem-solving skills and learning new technologies. I enjoy working on Java projects and solving coding challenges. I'm open to collaboration and contributions — feel free to reach out!
 
-## 🚀 About Me
-- 🔭 Currently building problem-solving skills and learning new technologies.
-- 👯 Looking to collaborate on Java projects and interesting coding challenges.
-- 🌱 Always learning: algorithms, data structures, and modern Java tooling.
-- 📝 I write code, read others' code, and try to contribute back where I can.
+🌐 Portfolio
 
-## 📌 Quick Links
-- GitHub: https://github.com/rohithgowda18
-- Instagram: https://instagram.com/rohithgowda.18
-- LinkedIn: https://www.linkedin.com/in/rohithgowdak18
-- Email: rohithgowdak18@gmail.com
+<p align="left"> <a href="YOUR_PORTFOLIO_URL" target="_blank"> <img src="https://img.shields.io/badge/🌍_Portfolio-Visit_Website-4F46E5?style=for-the-badge" /> </a> </p>
+
+
+## 🚀 About Me
+
+* 🔭 Currently building problem-solving skills and learning new technologies.
+* 👯 Looking to collaborate on Java projects and interesting coding challenges.
+* 🌱 Always learning: algorithms, data structures, Spring Boot, and modern Java tooling.
+* 📝 I write code, read others' code, and try to contribute back where I can.
+
 
 ## 💻 Tech Stack
-![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
+
+### 👨‍💻 Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=java,python,javascript,c,sql,bash" />
+</p>
+
+### ⚙️ Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=spring,maven,gradle" />
+<img src="https://img.shields.io/badge/REST_API-02569B?style=flat-square" />
+<img src="https://img.shields.io/badge/JWT-000000?style=flat-square" />
+<img src="https://img.shields.io/badge/LangChain-00A67E?style=flat-square" />
+</p>
+
+### 🎨 Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,html,css" />
+</p>
+
+### 🗄️ Databases
+
+<p>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb" />
+</p>
+
+### ☁️ DevOps & Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,docker,linux,postman,vscode,idea,vercel" />
+</p>
+
+### 📚 Currently Exploring
+
+<p>
+<img src="https://skillicons.dev/icons?i=redis,kafka" />
+</p>
 
 
-Add a small Projects section linking to repositories and include short instructions (how to run or reproduce).
 
-## 📊 GitHub Stats
-![Rohith's GitHub stats](https://github-readme-stats.vercel.app/api?username=rohithgowda18&theme=onedark&hide_border=false&include_all_commits=true&count_private=true)
+# 📈 GitHub Stats
 
-![Streak stats](https://github-readme-streak-stats.herokuapp.com/?user=rohithgowda18&theme=onedark&hide_border=false)
+<p align="center">
 
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rohithgowda18&theme=onedark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=rohithgowda18&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohithgowda18&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=rohithgowda18&theme=tokyonight&hide_border=true"/>
+
+</p>
 
 ---
 
-## ✉️ Contact
-- Email: rohithgowdak18@gmail.com
-- LinkedIn: https://www.linkedin.com/in/rohithgowdak18
-- Instagram: https://instagram.com/rohithgowda.18
+
+## 🌐 Connect With Me
+
+<p align="left">
+
+<a href="mailto:rohithgowdak18@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/rohithgowdak18">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://instagram.com/rohithgowda.18">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+<a href="https://github.com/rohithgowda18">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</p>
 
 ---
+
+## 📈 Currently Working On
+
+* 🚀 Java Backend Development
+* 🌱 Spring Boot & REST APIs
+* 📚 Data Structures & Algorithms
+* 🤖 AI Applications with LangChain
+* 🔓 Open Source Contributions
+
+---
+
+## ✨ Fun Fact
+
+> I enjoy solving coding challenges and building projects that help me learn something new every day.
+
+---
+
+<p align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:06B6D4&height=120&section=footer"/>
+
+</p>

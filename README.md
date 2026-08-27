@@ -45,17 +45,6 @@ I'm a developer passionate about **Java, backend development, problem-solving, a
 - 🤖 **AI Applications with LangChain**
 - 🔓 **Open Source Contributions**
 
----
-
-## 📌 Featured Projects
-
-<p align="center">
-  <a href="https://github.com/rohithgowda18?tab=repositories">
-    <img src="https://img.shields.io/badge/🚀_Explore_My_Projects-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
-
----
 ## 📊 GitHub Stats
 
 <p align="center">

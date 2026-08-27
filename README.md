@@ -26,13 +26,13 @@ I'm a developer passionate about **Java, backend development, problem-solving, a
 ## 💻 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,javascript,c,sql,bash,spring,react,html,css,postgres,mysql,mongodb,git,docker,linux,postman,vscode,idea&perline=10" />
+  <img src="https://skillicons.dev/icons?i=java,spring,python,javascript,react,html,css,c,postgres,mysql,mongodb,git,docker,linux,postman,vscode,idea&perline=9" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/REST_API-02569B?style=flat-square" />
-  <img src="https://img.shields.io/badge/JWT-000000?style=flat-square" />
-  <img src="https://img.shields.io/badge/LangChain-00A67E?style=flat-square" />
+  <img src="https://img.shields.io/badge/REST_API-0EA5E9?style=flat-square" />
+  <img src="https://img.shields.io/badge/JWT-111827?style=flat-square" />
+  <img src="https://img.shields.io/badge/LangChain-1C7C54?style=flat-square" />
 </p>
 
 ---
@@ -55,30 +55,57 @@ I'm a developer passionate about **Java, backend development, problem-solving, a
   <img src="https://streak-stats.demolab.com?user=rohithgowda18&theme=tokyonight&hide_border=true" />
 </p>
 
-
-## 🌐 Connect With Me
+## 🐍 My Contributions
 
 <p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rohithgowda18/rohithgowda18/output/github-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rohithgowda18/rohithgowda18/output/github-snake.svg">
+    <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/rohithgowda18/rohithgowda18/output/github-snake.svg">
+  </picture>
+</p>
 
-<a href="mailto:rohithgowdak18@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
+## 🧠 Coding Profiles
 
-<a href="https://www.linkedin.com/in/rohithgowdak18">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-<a href="https://instagram.com/rohithgowda.18">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-</a>
-
-<a href="https://github.com/rohithgowda18">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
+<p align="center">
+  <a href="https://leetcode.com/u/rohithgowdak/">
+    <img src="https://cdn.simpleicons.org/leetcode/FFA116" width="48" height="48" alt="LeetCode" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.geeksforgeeks.org/profile/rohithgowda2605">
+    <img src="https://cdn.simpleicons.org/geeksforgeeks/2F8D46" width="48" height="48" alt="GeeksforGeeks" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://codeforces.com/profile/rohithgowdak18">
+    <img src="https://cdn.simpleicons.org/codeforces/1F8ACB" width="48" height="48" alt="Codeforces" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.hackerrank.com/profile/rohithgowdak18">
+    <img src="https://cdn.simpleicons.org/hackerrank/00EA64" width="48" height="48" alt="HackerRank" />
+  </a>
 </p>
 
 ---
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="mailto:rohithgowdak18@gmail.com">
+    <img src="https://cdn.simpleicons.org/gmail/EA4335" width="46" height="46" alt="Gmail" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/rohithgowdak18">
+    <img src="https://img.icons8.com/fluency/48/linkedin.png" width="46" height="46" alt="LinkedIn" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://instagram.com/rohithgowda.18">
+    <img src="https://cdn.simpleicons.org/instagram/E4405F" width="46" height="46" alt="Instagram" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="tel:+917019404524">
+    <img src="https://img.icons8.com/fluency/48/phone.png" width="46" height="46" alt="Phone" />
+  </a>
+</p>
+
 
 ## ✨ Fun Fact
 

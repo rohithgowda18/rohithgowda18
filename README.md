@@ -101,8 +101,8 @@ I'm a developer passionate about **Java, backend development, problem-solving, a
     <img src="https://cdn.simpleicons.org/instagram/E4405F" width="46" height="46" alt="Instagram" />
   </a>
   &nbsp;&nbsp;
-  <a href="tel:+917019404524">
-    <img src="https://img.icons8.com/fluency/48/phone.png" width="46" height="46" alt="Phone" />
+  <a href="https://wa.me/917019404524">
+    <img src="https://cdn.simpleicons.org/whatsapp/25D366" width="44" height="44" alt="WhatsApp" />
   </a>
 </p>
 
